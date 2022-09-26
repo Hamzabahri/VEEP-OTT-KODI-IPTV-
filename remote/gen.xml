@@ -1,0 +1,16 @@
+﻿<keymap>
+  
+  
+  <videos>
+    <keyboard>
+      
+      <!--But_ok-->
+      <key id="61453">RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key>
+      <!--But_ok-->
+      
+      
+    </keyboard>
+  </videos>
+
+  
+</keymap>

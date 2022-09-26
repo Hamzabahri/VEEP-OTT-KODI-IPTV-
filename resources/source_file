@@ -1,0 +1,48 @@
+[
+
+{"title" : "++32056++",
+"url" : "get_live_categories",
+"mode" : "1",
+"type_select" :"1",
+"remote" : "live",
+"fanart" : "sygma/fanart_tv.jpg",
+"thumbnail" : "sygma/TV2_veep.png"},
+
+{"title" : "++32057++",
+"url" : "++play++",
+"mode" : "4",
+"type_select" :"1",
+"remote" : "live",
+"fanart" : "sygma/fanart5.png",
+"thumbnail" : "sygma/PLAY2_veep.png"},
+
+{"title" : "REPLAY",
+"url" : "get_live_categories",
+"mode" : "20",
+"type_select" :"1",
+"remote" : "live",
+"fanart" : "sygma/fanart7.png",
+"thumbnail" : "sygma/REPLAY2_veep.png"},
+
+{"title" : "++32055++",
+"url" : "++settings++",
+"fanart" : "sygma/fanart9.jpg", 
+"thumbnail" : "sygma/SETTING2_veep.png"},
+
+{"title" : "++32059++",
+"url" : "++raccourcis++",
+"fanart" : "sygma/fanart9.jpg", 
+"thumbnail" : "sygma/REMOTE2.png"},
+
+{"title" : "++32061++",
+"url" : "++info++",
+"fanart" : "sygma/fanart9.jpg",
+"thumbnail" : "sygma/INFO2_veep.png"},
+
+{"title" : "++32062++",
+"url" : "++demande++",
+"fanart" : "sygma/fanart9.jpg",
+"thumbnail" : "sygma/DEMANDE2_veep.png"}
+
+]
+

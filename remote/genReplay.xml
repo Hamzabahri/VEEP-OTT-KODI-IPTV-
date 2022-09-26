@@ -1,0 +1,78 @@
+<keymap>
+  <videos>
+    <keyboard>
+
+      <!--But_ok-->
+      <key id="61453">RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key>
+      <!--But_ok-->
+
+      <!--But_retour-->
+      <key id="61448" >RunScript(special://home/addons/plugin.veep.ott/remote/script/Retour.py)</key>
+      <!--But_retour-->
+    </keyboard>
+  </videos>
+
+  <fullscreenvideo>
+    <keyboard>
+
+      <key id="61492">VolumeDown</key><!--But_4-->
+      <key id="61493">Mute</key><!--But_5-->      
+      <key id="61494">volumeUp</key><!--But_6-->
+      <key id="61490">Back</key><!--But_2-->
+      <key id="61495">AudioDelayMinus</key><!--But_7-->
+      <key id="61497">AudioDelayPlus</key><!--But_9-->
+
+      <!--But_ok-->
+      <key id="61453" >RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key>    
+      <!--But_ok-->
+
+      <!--Fleche_Haut-->
+      <key id="61568">BigStepForward</key>
+      <!--Fleche_Haut-->
+
+      <!--Fleche_Bas-->
+      <key id="61569">BigStepBack</key>
+      <!--Fleche_Bas-->
+
+      <!--Fleche_Droit-->
+      <key id="61571">StepForward</key>
+      <!--Fleche_Droit-->
+
+      <!--Fleche_gauche--> 
+      <key id="61570">StepBack</key>
+      <!--Fleche_gauche--> 
+ 
+    </keyboard>
+  </fullscreenvideo>
+</keymap>
+
+
+
+
+  <!-- <global> -->
+    <!-- <keyboard> -->
+      <!-- <key id="61489">runaddon(plugin.veep.ott)</key>But_1 -->
+      <!-- <key id="61488">quit</key>But_0 -->
+      <!-- <key id="61491">stop</key>But_3 -->
+      <!-- <key id="61490">activatewindow(fullscreenvideo)</key><!--But_2--> -->
+      <!--But_8-->
+      <!-- <key id="61496">RunScript(special://home/addons/plugin.veep.ott/remote/script/InfoTelPLAY.py)</key> -->
+      <!--But_8-->
+      
+    <!-- </keyboard> -->
+  <!-- </global> -->
+
+
+        <!--But_ok-->
+      <!-- <key id="61453"  >RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key> -->
+      <!-- <key id="61453">pause</key> -->
+      
+      <!--But_ok-->
+    
+
+
+          <!--But_1-->
+      <!-- <key id="61489">RunScript(special://home/addons/plugin.veep.ott/remote/script/OpenApp.py)</key> -->
+      <!--But_1-->
+            <!--<key id="61570">Back</key>-->
+            <!-- <key id="61453" >pause</key> -->

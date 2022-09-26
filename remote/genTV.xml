@@ -1,0 +1,199 @@
+<keymap> 
+  <videos>
+    <keyboard>
+      
+      <!--But_0-->
+      <key id="61488">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,0)</key>
+      <!--But_0-->
+
+      <!--But_1-->
+      <key id="61489">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,1)</key>
+      <!--But_1-->
+     
+      <!--But_2-->
+      <key id="61490">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,2)</key>
+      <!--But_2-->
+      
+      <!--But_3-->
+      <key id="61491">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,3)</key>
+      <!--But_3-->
+
+      <!--But_4-->
+      <key id="61492">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,4)</key>
+      <!--But_4-->
+
+      <!--But_5-->      
+      <key id="61493">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,5)</key>
+      <!--But_5-->
+
+      <!--But_6-->
+      <key id="61494">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,6)</key>
+      <!--But_6-->
+
+      <!--But_7-->
+      <key id="61495">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,7)</key>
+      <!--But_7-->
+
+      <!--But_8-->
+      <key id="61496">RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,8)</key>      
+      <!--But_8 61448-->
+      
+      <!--But_9-->
+      <key id="61497" >RunScript(special://home/addons/plugin.veep.ott/remote/script/numSelectCH.py,9)</key>
+      <!--But_9-->
+
+      <!--But_ok-->
+      <key id="61453">RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key>
+      <!--But_ok-->
+
+      <!--But_retour-->
+      <key id="61448" >RunScript(special://home/addons/plugin.veep.ott/remote/script/Retour.py)</key>
+      <!--But_retour-->
+
+      <!--Fleche_Haut-->
+      <!-- <key id="61568">RunScript(special://home/addons/plugin.veep.ott/remote/script/up.py)</key> -->
+      <!--Fleche_Haut-->
+
+      <!--Fleche_Bas-->
+      <!-- <key id="61569">RunScript(special://home/addons/plugin.veep.ott/remote/script/down.py)</key> -->
+      <!--Fleche_Bas-->
+
+     
+    </keyboard>
+  </videos>
+
+  <fullscreenvideo>
+    <keyboard>
+      <!--But_0-->
+      <key id="61488">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,0)</key>
+      <!--But_0-->
+
+      <!--But_1-->
+      <key id="61489">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,1)</key>
+      <!--But_1-->
+
+      <!--But_2-->
+      <key id="61490">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,2)</key>
+      <!--But_2-->
+      
+      <!--But_3-->
+      <key id="61491">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,3)</key>
+      <!--But_3-->
+
+      <!--But_4-->
+      <key id="61492">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,4)</key>
+      <!--But_4-->
+
+      <!--But_5-->
+      
+      <key id="61493">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,5)</key>
+
+      <!--But_5-->
+
+      <!--But_6-->
+      <key id="61494">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,6)</key>
+      <!--But_6-->
+
+      <!--But_7-->
+      <key id="61495">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,7)</key>
+      <!--But_7-->
+
+      <!--But_8-->
+      <key id="61496">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,8)</key>
+      
+      <!--But_8-->
+      
+      <!--But_9-->
+      <key id="61497">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,9)</key>
+      <!--But_9-->
+      
+      <!--But_ok-->
+      <key id="61453" mod="longpress" >RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key> 
+      <!--But_ok-->
+
+      <!--But_ok-->
+      <key id="61453" >RunScript(special://home/addons/plugin.veep.ott/remote/script/toutepg.py)</key>     
+      <!--But_ok-->
+      
+      <!--Fleche_Haut-->
+      <key id="61568">RunScript(special://home/addons/plugin.veep.ott/remote/script/TableItem.py)</key>
+      <!--Fleche_Haut-->
+
+      <!--Fleche_Bas-->
+      <key id="61569">RunScript(special://home/addons/plugin.veep.ott/remote/script/TableItem.py)</key>
+      <!--Fleche_Bas-->
+
+      <!--Fleche_Droit-->
+      <key id="61571">volumeup</key>
+      <!--Fleche_Droit-->
+
+      <!--Fleche_gauche--> 
+      <key id="61570">Volumedown</key>
+      <!--Fleche_gauche-->
+
+      <!-- But_retour --> 
+      <key id="61448" >PreviousMenu</key>
+      <!-- But_retour --> 
+
+    </keyboard>
+  </fullscreenvideo>
+</keymap>
+
+<!--But_retour --><!-- <key id="61448" >Back</key> -->
+
+
+
+<!-- <global> -->
+    <!-- <keyboard> -->
+       <!-- <key id="61448">RunPlugin(plugin://plugin.veep.ott/?mode=12)</key> -->
+      <!--But_1-->
+
+      <!-- <key id="61453" >RunScript(special://home/addons/plugin.veep.ott/remote/script/epg.py)</key>mech n3awed n7elouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu manansech -->
+<!--       <key id="61453">RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key>
+ -->      <!-- <key id="61489">runaddon(plugin.veep.ott)</key><!--But_1-->
+      <!-- <key id="61488">quit</key><!--But_0--> -->
+      <!-- <key id="61491">stop</key><!--But_3--> -->
+      <!-- <key id="61490">activatewindow(fullscreenvideo)</key><!--But_2--> --> -->
+      <!--But_3 -->
+    <!--   <key id="61491">RunScript(special://home/addons/plugin.veep.ott/remote/script/num.py,6)</key> -->
+      <!--But_3 -->
+      
+      <!--But_8-->
+      <!-- <key id="61496">RunScript(special://home/addons/plugin.veep.ott/remote/script/InfoTelPLAY.py)</key> -->
+      <!--But_8-->
+      
+    <!-- </keyboard> -->
+  <!-- </global> -->
+
+
+
+    <!--But_ok-->
+    
+      <!-- <key id="61492" mod="longpress" >VolumeselectCH</key>But_4 -->
+      <!-- <key id="61493" mod="longpress">Mute</key>But_5 -->
+      
+      <!-- <key id="61494" mod="longpress">volumeup</key>But_6 -->
+      <!-- <key id="61490" mod="longpress">Back</key>But_2 -->
+      <!-- <key id="61495" mod="longpress">AudioDelayMinus</key>But_7 -->
+      <!-- <key id="61497" mod="longpress">AudioDelayPlus</key>But_9 -->
+
+      <!--Fleche_Droit-->
+      <!-- <key id="61571">activatewindow(fullscreenvideo)</key> -->
+      <!--Fleche_Droit-->
+      <!--But_1-->
+      <!-- <key id="61489">RunScript(special://home/addons/plugin.veep.ott/remote/script/OpenApp.py)</key> -->
+      <!--But_1-->
+
+      <!--key id="61490" mod="longpress">ActivateWindow(12005,return)</key>-->
+      <!-- <key id="61453" >RunScript(special://home/addons/plugin.veep.ott/remote/script/ok.py)</key> -->
+      <!-- <key id="61453" mod="longpress">RunScript(special://home/addons/plugin.veep.ott/remote/script/ok1.py)</key> -->
+      <!--But_ok-->
+      <!--Fleche_Bas-->
+      <!-- <key id="61569">RunScript(special://home/addons/plugin.veep.ott/remote/script/epg+.py)</key> -->
+      <!--Fleche_Bas-->
+      <!--But_retour --><!-- <key id="61448" >RunPlugin(plugin://plugin.veep.ott/?mode=None)</key> -->
+      <!--key id="61489" mod="longpress">RunPlugin(plugin://plugin.tel.action/?mode=11)</key>-->
+      <!--But_ok-->
+      <!-- <key id="61453">Back</key> -->
+      <!-- <key id="61453" mod="longpress">RunScript(special://home/addons/plugin.veep.ott/remote/script/_OK364637.py)</key> -->
+      <!-- <key id="61448" condition ="Player.HasVideo" >PreviousMenu</key> -->

@@ -1,0 +1,24 @@
+<settings>
+	<category label="32073">
+    <setting id="debug" visible="False" type="bool" label="Enable Add-on Debugging" default="True"/>
+    <setting label="32094" type="lsep"/>  
+    <setting type="text" visible="True" id="mac_adresse" default="" enable="False" label="32067" />
+    <setting type="text" visible="True" id="serieal_nb" default="" enable="False" label="32068" />
+    <setting label="32069" type="text" id="coded" default=""/>
+    <setting label="pin" type="text" id="pin" default=""/>    
+    <setting type="text" visible="False" id="check_apk" default="https://winneplus.com/check_apk2.php"/>
+    <setting type="text" visible="False" id="url_sygma" default="http://wyveep.com"/>
+    <setting type="text" visible="False" id="port_sygma" default="8080"/>
+    <setting type="text" label="32066" visible="False" id="username" default=""/>
+    <setting type="text" label="32070" visible="False" id="password" default=""/>
+    <setting type="text" visible="False" id="kodi_image" default="KODI_API/IMG"/>
+    <setting type="text" visible="False" id="player_api" default="player_api.php"/>
+    <setting type="text" visible="False" id="version" default="1.2"/>
+    <setting type="text" visible="False" id="theme_ok" default="0"/>  
+    <setting label="32092" type="lsep"/>     
+    <setting id="country" type="select" label="32071" values="DUTCH|ENGLISH|FRANCE|ITALIAN|PORTUGUESE|SPANISH" default="ENGLISH"/> 
+    <setting label="32072" type="bool" id="boot" default="false"/>
+    <setting id="option" type="select" label="32090" values="Default(HLS)|MPEG|TS" default="Default(HLS)"/> 
+    <!-- <setting id="option_lecture" type="select" label="32091" values="Default|Rapide" default="Default"/>  -->
+	</category>
+</settings>

@@ -1,0 +1,33 @@
+[
+
+{"title" : "++32063++", 
+"url" : "get_vod_categories",
+"mode" : "5",
+"type_select" :"1", 
+"remote" : "live",
+"fanart" : "sygma/fanart2.png",  
+"thumbnail" : "sygma/MOVIE2_veep.png"},
+
+
+{"title" : "++32064++", 
+"url" : "get_series_categories", 
+"mode" : "8",
+"type_select" :"1",
+"remote" : "live",
+"fanart" : "sygma/fanart6.png", 
+"thumbnail" : "sygma/SERIES2_veep.png"}
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
